@@ -1,5 +1,5 @@
 # TradingBot
-To setup a trading Bot set to 4 part.
+To set up a trading Bot, I separate to four part.
 1. Manager
 2. Connecting API
 3. Message Sender 
